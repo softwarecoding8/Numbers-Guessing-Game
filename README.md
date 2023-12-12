@@ -1,5 +1,5 @@
 # Numbers-Guessing-Game
-This is a JavaFX application where a user guesses three numbers within a given range and if the user guesses correctly he/she wins the game, otherwise, the user can try again.
+Number Guessing Game is a JavaFX application where a user guesses three numbers within a given range and if the user guesses correctly he/she wins the game, otherwise, the user can try again.
 
 # Libraries/Dependencies Used
 * JDK 64 bit 18.0.1.1.
